@@ -1,13 +1,6 @@
 # Insurance Portfolio Analytics --- Python
 
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}Python \| Pandas \| NumPy \| Matplotlib \|
-Seaborn`</strong>`{=html}
-```{=html}
-</p>
-```
+Python | Pandas | NumPy | Matplotlib | Seaborn
 
 ------------------------------------------------------------------------
 
@@ -205,12 +198,5 @@ Aspiring Data Analyst
 [LinkedIn](https://www.linkedin.com/in/aysu-qadirova-08951b220)
 
 ------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<i>`{=html}Turning insurance data into actionable analytical
-insights.`</i>`{=html}
-```{=html}
-</p>
-```
+Turning insurance data into actionable analytical
+insights.
