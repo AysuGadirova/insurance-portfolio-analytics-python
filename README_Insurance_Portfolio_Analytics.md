@@ -1,8 +1,7 @@
 # Insurance Portfolio Analytics --- Python
-
-Python | Pandas | NumPy | Matplotlib | Seaborn
-
 ------------------------------------------------------------------------
+Turning insurance data into actionable analytical
+insights.
 
 ## Project Overview
 
@@ -198,5 +197,3 @@ Aspiring Data Analyst
 [LinkedIn](https://www.linkedin.com/in/aysu-qadirova-08951b220)
 
 ------------------------------------------------------------------------
-Turning insurance data into actionable analytical
-insights.
