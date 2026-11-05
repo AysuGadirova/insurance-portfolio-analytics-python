@@ -136,6 +136,13 @@ count:
 The distribution of policies across risk groups was visualized in a pie
 chart.
 
+### Yekun Analitik Xülasə (Executive Summary)
+-   **Data Keyfiyyəti:** Bütün 4 cədvəldə təkrarlanan sətirlər, boş dəyərlər və sütun tipləri yoxlanılmış; tarix sütunları datetime formatına gətirilmiş; məntiqsiz tarixlər (doğum tarixindən əvvəl qoşulma və s.) filtrlənmişdir.
+-   **Regional Risk:** Zərər tezliyi və ağırlığı üzrə regional fərqliliklər aşkar edilmişdir. Müəyyən regionlarda hadisə sayı az olsa da, tək bir zərərin orta məbləği (ağırlığı) daha yüksəkdir.
+-   **Risk Seqmentasiyası:** Zərərlilik dərəcəsi (Loss Ratio) > 0.8 və ya hadisə sayı > 2 olan müştərilər ardıcıl olaraq (həm erkən aşkarlama, həm seqmentasiya mərhələsində) "Yüksək Risk" kateqoriyasına aid edilmişdir. Bu seqment şirkətin ümumi zərər portfelinin əsas hissəsini təşkil edir.
+-   **Tövsiyə**
+Yüksək riskli müştəri seqmenti üçün sığorta haqlarının (premium) artırılması və ya anderraytinq şərtlərinin sərtləşdirilməsi tövsiyə olunur.
+
 ## Tools & Libraries
 
 -   **Python** --- analysis workflow
