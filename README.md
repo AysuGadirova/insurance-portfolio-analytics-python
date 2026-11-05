@@ -136,12 +136,15 @@ count:
 The distribution of policies across risk groups was visualized in a pie
 chart.
 
-### Yekun Analitik Xülasə (Executive Summary)
--   **Data Keyfiyyəti:** Bütün 4 cədvəldə təkrarlanan sətirlər, boş dəyərlər və sütun tipləri yoxlanılmış; tarix sütunları datetime formatına gətirilmiş; məntiqsiz tarixlər (doğum tarixindən əvvəl qoşulma və s.) filtrlənmişdir.
--   **Regional Risk:** Zərər tezliyi və ağırlığı üzrə regional fərqliliklər aşkar edilmişdir. Müəyyən regionlarda hadisə sayı az olsa da, tək bir zərərin orta məbləği (ağırlığı) daha yüksəkdir.
--   **Risk Seqmentasiyası:** Zərərlilik dərəcəsi (Loss Ratio) > 0.8 və ya hadisə sayı > 2 olan müştərilər ardıcıl olaraq (həm erkən aşkarlama, həm seqmentasiya mərhələsində) "Yüksək Risk" kateqoriyasına aid edilmişdir. Bu seqment şirkətin ümumi zərər portfelinin əsas hissəsini təşkil edir.
--   **Tövsiyə**
-Yüksək riskli müştəri seqmenti üçün sığorta haqlarının (premium) artırılması və ya anderraytinq şərtlərinin sərtləşdirilməsi tövsiyə olunur.
+### Executive Summary
+- **Data Quality:** Duplicate records, missing values, and column data types were checked across all four tables. Date columns were converted to the datetime format, and logically inconsistent dates (e.g., enrollment dates preceding dates of birth) were filtered out.
+
+- **Regional Risk:** Regional differences were identified in claim frequency and claim severity. Although some regions have a lower number of claims, the average amount of an individual claim (severity) is higher.
+
+- **Risk Segmentation:** Customers with a Loss Ratio greater than 0.8 or more than 2 claims were consistently classified as "High Risk" during both the early detection and segmentation stages. This segment accounts for a significant portion of the company's overall claims portfolio.
+
+- **Recommendations:** It is recommended to increase insurance premiums or apply stricter underwriting conditions to the high-risk customer segment
+
 
 ## Tools & Libraries
 
