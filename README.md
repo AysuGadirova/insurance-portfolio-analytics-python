@@ -1,3 +1,4 @@
+<img width="678" height="372" alt="Screenshot (813)" src="https://github.com/user-attachments/assets/dec9a9d2-8356-4864-afd3-f1d107baa403" />
 # Insurance Portfolio Analytics --- Python
 ------------------------------------------------------------------------
 Turning insurance data into actionable analytical
@@ -91,6 +92,9 @@ Calculated the following metrics:
     high or low premium values.
 -   Used a boxplot to visualize premium distribution by insurance type.
 
+<img width="460" height="263" alt="Screenshot (812)" src="https://github.com/user-attachments/assets/360f6ce7-3663-4aa6-8679-0a646c415e1a" />
+
+
 ### 5. High-Risk Policy Identification
 
 Flagged policies as high risk when either of the following conditions
@@ -110,6 +114,9 @@ Compared regions using:
 
 The results were visualized with bar charts.
 
+<img width="678" height="372" alt="Screenshot (813)" src="https://github.com/user-attachments/assets/5331872b-90b8-43cf-82e9-a70aa7262415" />
+
+
 ### 7. Correlation Analysis
 
 Examined correlations between:
@@ -121,6 +128,9 @@ Examined correlations between:
 
 A correlation matrix and heatmap were used to explore relationships
 between these numerical variables.
+
+<img width="349" height="360" alt="Screenshot (814)" src="https://github.com/user-attachments/assets/c6c28bd5-8476-4584-99be-0e56c9a216b7" />
+
 
 ### 8. Policy Risk Segmentation
 
@@ -135,6 +145,8 @@ count:
 
 The distribution of policies across risk groups was visualized in a pie
 chart.
+
+<img width="262" height="244" alt="Screenshot (815)" src="https://github.com/user-attachments/assets/4280c2f5-eadd-445e-839a-8b77117efeda" />
 
 ### Executive Summary
 - **Data Quality:** Duplicate records, missing values, and column data types were checked across all four tables. Date columns were converted to the datetime format, and logically inconsistent dates (e.g., enrollment dates preceding dates of birth) were filtered out.
