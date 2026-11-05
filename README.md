@@ -1,4 +1,3 @@
-<img width="678" height="372" alt="Screenshot (813)" src="https://github.com/user-attachments/assets/dec9a9d2-8356-4864-afd3-f1d107baa403" />
 # Insurance Portfolio Analytics --- Python
 ------------------------------------------------------------------------
 Turning insurance data into actionable analytical
